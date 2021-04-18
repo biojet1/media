@@ -1,0 +1,34 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="26.625019"
+   width="19.323868"
+   id="svg5"
+   version="1.1">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <g
+     transform="translate(-964.70701,80.880656)"
+     class="@"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:25px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="text3"
+     aria-label="X">
+    <path
+       id="path13"
+       d="m 980.37111,-80.880656 q -2.04167,0 -2.77084,1.687501 l -3.22917,7.354172 -3.22917,-7.354172 q -0.75,-1.687501 -2.77083,-1.687501 h -0.45834 q -1.95833,0 -2.77083,1.645834 -0.8125,1.562501 0.14583,3.229169 l 4.91667,8.58334 -4.91667,8.062506 q -1.08333,1.770835 -0.14583,3.416669 0.91667,1.687501 2.77083,1.687501 h 0.45834 q 2,0 2.77083,-1.687501 l 3.22917,-7.083338 3.22917,7.083338 q 0.77084,1.687501 2.77084,1.687501 h 0.0833 q 2.29167,0 3.16667,-1.687501 0.89583,-1.687501 -0.16667,-3.416669 l -4.89583,-8.062506 4.89583,-8.58334 q 0.97917,-1.729168 0.16667,-3.229169 -0.9375,-1.645834 -3.16667,-1.645834 z" />
+  </g>
+</svg>
