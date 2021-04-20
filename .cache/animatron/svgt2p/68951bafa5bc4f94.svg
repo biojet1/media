@@ -1,0 +1,55 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="71.625"
+   width="346.92188"
+   id="svg8"
+   version="1.1">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     class="@"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:25px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect891-29);fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1157)"
+     id="text6"
+     transform="translate(-1.6875,70.828125)"
+     aria-label="MEDIAN">
+    <path
+       id="path16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="m 5.8125,0 h -4.125 l 13.40625,-70.828125 25.546875,60.75 25.96875,-60.75 L 79.640625,0 h -4.40625 L 64.96875,-56.25 40.359375,0.796875 16.5,-56.25 Z" />
+    <path
+       id="path18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="m 126.84375,-42.75 v 4.21875 h -33.5625 v 34.3125 H 129.5625 V 0 h -40.5 V -69.984375 H 129.75 v 4.21875 H 93.28125 V -42.75 Z" />
+    <path
+       id="path20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="M 144.65625,-4.21875 H 154.5 q 8.57812,0 15.75,-4.03125 7.21875,-4.03125 11.39062,-11.109375 4.21875,-7.078125 4.21875,-15.5625 0,-8.578125 -4.21875,-15.65625 -4.17187,-7.125 -11.39062,-11.15625 -7.17188,-4.03125 -15.75,-4.03125 h -9.84375 z M 140.4375,0 V -69.984375 H 154.5 q 7.21875,0 13.78125,2.71875 6.5625,2.71875 11.34375,7.40625 4.78125,4.640625 7.59375,11.15625 2.8125,6.515625 2.8125,13.78125 0,9.65625 -4.78125,17.71875 Q 180.46875,-9.1875 172.3125,-4.59375 164.15625,0 154.5,0 Z" />
+    <path
+       id="path22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="M 207.84375,0 H 203.625 v -69.984375 h 4.21875 z" />
+    <path
+       id="path24"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="m 232.73437,-25.921875 h 28.21875 L 246.79687,-59.90625 Z m 29.90625,4.21875 H 230.71875 L 221.8125,0 h -4.5 L 246.65625,-70.828125 276.09375,0 h -4.5 z" />
+    <path
+       id="path26"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#729fcf"
+       d="m 285.5625,0 v -70.828125 l 58.875,61.359375 v -60.515625 h 4.17187 V 0.796875 L 289.78125,-60.46875 V 0 Z" />
+  </g>
+</svg>
